@@ -1,8 +1,8 @@
-# XXX collection
+# Open space collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/master/LICENSE)
 
-A collection of XXX collected from YYY.
+A collection of open spaces collected from local planning authorities.
 
 The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
 
