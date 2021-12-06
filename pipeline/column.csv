@@ -1,5 +1,5 @@
 pipeline,resource,pattern,value
 open-space,,WKT,geometry
 open-space,,SITE,name
-open-space,,OBJECTID,geography
+open-space,,OBJECTID,open-space
 open-space,,Link_to_Policy,documentation-url

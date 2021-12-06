@@ -1,10 +1,9 @@
-# Open space collection
+# open-space collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/open-space/blob/main/LICENSE)
+[![Run pipeline](https://github.com/digital-land/open-space-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/open-space-collection/actions/workflows/run.yml)
 
-A collection of open spaces collected from local planning authorities.
-
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
+The data and pipeline to build the [open-space dataset](https://www.digital-land.info/dataset/open-space).
 
 # Collection
 
@@ -23,11 +22,7 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
     $ make init
     $ make collect
 
-# Nightly collection
-
-The collection is [updated nightly](https://github.com/digital-land/ZZZ/actions) by the [GitHub Action](.github/workflows/run.yml).
-
-# Building the national dataset
+# Building the datasets
 
 The collected files can then be converted into a national dataset:
 
