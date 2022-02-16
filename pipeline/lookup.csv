@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 open-space,,local-authority-eng:ESK,93,10700000
 open-space,,local-authority-eng:ESK,310,10700001
 open-space,,local-authority-eng:ESK,6586,10700002
